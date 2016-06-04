@@ -1,0 +1,195 @@
+0.0,0.0,0.0,4.0,Ave,Cornwall Ave,4.0
+0.0,4.0,0.0,8.0,Ave,Cornwall Ave,4.0
+0.0,8.0,0.0,12.0,Ave,Cornwall Ave,4.0
+0.0,12.0,0.0,13.0,Ave,Cornwall Ave,1.0
+0.0,13.0,0.0,14.0,Ave,Cornwall Ave,1.0
+0.0,14.0,0.0,15.0,Ave,Cornwall Ave,1.0
+0.0,15.0,0.0,16.0,Ave,Cornwall Ave,1.0
+0.0,16.0,0.0,17.0,Ave,Cornwall Ave,1.0
+0.0,17.0,0.0,18.0,Ave,Cornwall Ave,1.0
+0.0,18.0,0.0,19.0,Ave,Cornwall Ave,1.0
+0.0,19.0,0.0,20.0,Ave,Cornwall Ave,1.0
+0.0,20.0,0.0,22.0,Ave,Cornwall Ave,2.0
+0.0,22.0,0.0,24.0,Ave,Cornwall Ave,2.0
+1.0,0.0,1.0,4.0,Lane,Cornwall/York Lane,4.0
+1.0,4.0,1.0,8.0,Lane,Cornwall/York Lane,4.0
+1.0,8.0,1.0,12.0,Lane,Cornwall/York Lane,4.0
+1.0,12.0,1.0,16.0,Lane,Cornwall/York Lane,4.0
+2.0,0.0,2.0,4.0,Ave,York Ave,4.0
+2.0,4.0,2.0,8.0,Ave,York Ave,4.0
+2.0,8.0,2.0,12.0,Ave,York Ave,4.0
+2.0,12.0,2.0,16.0,Ave,York Ave,4.0
+2.0,16.0,2.0,20.0,Ave,York Ave,4.0
+2.0,20.0,2.0,22.0,Ave,York Ave,2.0
+3.0,0.0,3.0,4.0,Lane,York/W 1st Lane,4.0
+3.0,4.0,3.0,8.0,Lane,York/W 1st Lane,4.0
+3.0,8.0,3.0,12.0,Lane,York/W 1st Lane,4.0
+3.0,12.0,3.0,16.0,Lane,York/W 1st Lane,4.0
+3.0,16.0,3.0,20.0,Lane,York/W 1st Lane,4.0
+3.0,20.0,3.0,22.0,Lane,York/W 1st Lane,2.0
+4.0,0.0,4.0,4.0,Ave,W 1st Ave,4.0
+4.0,4.0,4.0,8.0,Ave,W 1st Ave,4.0
+4.0,8.0,4.0,12.0,Ave,W 1st Ave,4.0
+4.0,12.0,4.0,16.0,Ave,W 1st Ave,4.0
+4.0,16.0,4.0,20.0,Ave,W 1st Ave,4.0
+4.0,20.0,4.0,22.0,Ave,W 1st Ave,2.0
+4.0,22.0,4.0,24.0,Ave,W 1st Ave,2.0
+5.0,0.0,5.0,4.0,Lane,W 1st/W 2nd Lane,4.0
+5.0,4.0,5.0,8.0,Lane,W 1st/W 2nd Lane,4.0
+5.0,8.0,5.0,12.0,Lane,W 1st/W 2nd Lane,4.0
+5.0,12.0,5.0,16.0,Lane,W 1st/W 2nd Lane,4.0
+5.0,16.0,5.0,20.0,Lane,W 1st/W 2nd Lane,4.0
+5.0,20.0,5.0,24.0,Lane,W 1st/W 2nd Lane,4.0
+6.0,0.0,6.0,4.0,Ave,W 2nd Ave,4.0
+6.0,4.0,6.0,8.0,Ave,W 2nd Ave,4.0
+6.0,8.0,6.0,12.0,Ave,W 2nd Ave,4.0
+6.0,12.0,6.0,16.0,Ave,W 2nd Ave,4.0
+6.0,16.0,6.0,20.0,Ave,W 2nd Ave,4.0
+6.0,20.0,6.0,24.0,Ave,W 2nd Ave,4.0
+7.0,0.0,7.0,4.0,Lane,W 2nd/W 3rd Lane,4.0
+7.0,4.0,7.0,8.0,Lane,W 2nd/W 3rd Lane,4.0
+7.0,8.0,7.0,12.0,Lane,W 2nd/W 3rd Lane,4.0
+7.0,12.0,7.0,16.0,Lane,W 2nd/W 3rd Lane,4.0
+7.0,16.0,7.0,20.0,Lane,W 2nd/W 3rd Lane,4.0
+7.0,20.0,7.0,24.0,Lane,W 2nd/W 3rd Lane,4.0
+8.0,0.0,8.0,4.0,Ave,W 3rd Ave,4.0
+8.0,4.0,8.0,8.0,Ave,W 3rd Ave,4.0
+8.0,8.0,8.0,12.0,Ave,W 3rd Ave,4.0
+8.0,12.0,8.0,16.0,Ave,W 3rd Ave,4.0
+8.0,16.0,8.0,20.0,Ave,W 3rd Ave,4.0
+8.0,20.0,8.0,24.0,Ave,W 3rd Ave,4.0
+9.0,4.0,9.0,8.0,Lane,W 3rd/W 4th Lane,4.0
+9.0,8.0,9.0,12.0,Lane,W 3rd/W 4th Lane,4.0
+9.0,12.0,9.0,16.0,Lane,W 3rd/W 4th Lane,4.0
+9.0,16.0,9.0,20.0,Lane,W 3rd/W 4th Lane,4.0
+9.0,20.0,9.0,24.0,Lane,W 3rd/W 4th Lane,4.0
+10.0,0.0,10.0,4.0,Ave,W 4th Ave,4.0
+10.0,4.0,10.0,8.0,Ave,W 4th Ave,4.0
+10.0,8.0,10.0,12.0,Ave,W 4th Ave,4.0
+10.0,12.0,10.0,16.0,Ave,W 4th Ave,4.0
+10.0,16.0,10.0,20.0,Ave,W 4th Ave,4.0
+10.0,20.0,10.0,24.0,Ave,W 4th Ave,4.0
+11.0,0.0,11.0,4.0,Lane,W 4th/W 5th Lane,4.0
+11.0,4.0,11.0,8.0,Lane,W 4th/W 5th Lane,4.0
+11.0,8.0,11.0,12.0,Lane,W 4th/W 5th Lane,4.0
+11.0,12.0,11.0,16.0,Lane,W 4th/W 5th Lane,4.0
+11.0,16.0,11.0,20.0,Lane,W 4th/W 5th Lane,4.0
+11.0,20.0,11.0,24.0,Lane,W 4th/W 5th Lane,4.0
+12.0,0.0,12.0,4.0,Ave,W 5th Ave,4.0
+12.0,4.0,12.0,8.0,Ave,W 5th Ave,4.0
+12.0,8.0,12.0,12.0,Ave,W 5th Ave,4.0
+12.0,12.0,12.0,16.0,Ave,W 5th Ave,4.0
+12.0,16.0,12.0,20.0,Ave,W 5th Ave,4.0
+12.0,20.0,12.0,24.0,Ave,W 5th Ave,4.0
+14.0,0.0,14.0,4.0,Ave,W 6th Ave,4.0
+14.0,4.0,14.0,8.0,Ave,W 6th Ave,4.0
+14.0,8.0,14.0,12.0,Ave,W 6th Ave,4.0
+14.0,12.0,14.0,16.0,Ave,W 6th Ave,4.0
+14.0,16.0,14.0,20.0,Ave,W 6th Ave,4.0
+14.0,20.0,14.0,22.0,Ave,W 6th Ave,2.0
+14.0,22.0,14.0,24.0,Ave,W 6th Ave,2.0
+15.0,16.0,15.0,20.0,Lane,W 6th/W 7th Lane,4.0
+16.0,0.0,16.0,4.0,Ave,W 7th Ave,4.0
+16.0,4.0,16.0,8.0,Ave,W 7th Ave,4.0
+16.0,8.0,16.0,12.0,Ave,W 7th Ave,4.0
+16.0,12.0,16.0,20.0,Ave,W 7th Ave,4.0
+16.0,20.0,16.0,22.0,Ave,W 7th Ave,2.0
+16.0,22.0,16.0,24.0,Ave,W 7th Ave,2.0
+0.0,0.0,1.0,0.0,Street,Balsam St,1.0
+1.0,0.0,2.0,0.0,Street,Balsam St,1.0
+2.0,0.0,3.0,0.0,Street,Balsam St,1.0
+3.0,0.0,4.0,0.0,Street,Balsam St,1.0
+4.0,0.0,5.0,0.0,Street,Balsam St,1.0
+5.0,0.0,6.0,0.0,Street,Balsam St,1.0
+6.0,0.0,7.0,0.0,Street,Balsam St,1.0
+7.0,0.0,8.0,0.0,Street,Balsam St,1.0
+8.0,0.0,9.0,0.0,Street,Balsam St,1.0
+9.0,0.0,10.0,0.0,Street,Balsam St,1.0
+10.0,0.0,11.0,0.0,Street,Balsam St,1.0
+11.0,0.0,12.0,0.0,Street,Balsam St,1.0
+12.0,0.0,14.0,0.0,Street,Balsam St,2.0
+14.0,0.0,16.0,0.0,Street,Balsam St,2.0
+0.0,4.0,1.0,4.0,Street,Vine St,1.0
+1.0,4.0,2.0,4.0,Street,Vine St,1.0
+2.0,4.0,3.0,4.0,Street,Vine St,1.0
+3.0,4.0,4.0,4.0,Street,Vine St,1.0
+4.0,4.0,5.0,4.0,Street,Vine St,1.0
+5.0,4.0,6.0,4.0,Street,Vine St,1.0
+6.0,4.0,7.0,4.0,Street,Vine St,1.0
+7.0,4.0,8.0,4.0,Street,Vine St,1.0
+8.0,4.0,9.0,4.0,Street,Vine St,1.0
+9.0,4.0,10.0,4.0,Street,Vine St,1.0
+10.0,4.0,11.0,4.0,Street,Vine St,1.0
+11.0,4.0,12.0,4.0,Street,Vine St,1.0
+12.0,4.0,14.0,4.0,Street,Vine St,2.0
+14.0,4.0,16.0,4.0,Street,Vine St,2.0
+0.0,8.0,1.0,8.0,Street,Yew St,1.0
+1.0,8.0,2.0,8.0,Street,Yew St,1.0
+2.0,8.0,3.0,8.0,Street,Yew St,1.0
+3.0,8.0,4.0,8.0,Street,Yew St,1.0
+4.0,8.0,5.0,8.0,Street,Yew St,1.0
+5.0,8.0,6.0,8.0,Street,Yew St,1.0
+6.0,8.0,7.0,8.0,Street,Yew St,1.0
+7.0,8.0,8.0,8.0,Street,Yew St,1.0
+8.0,8.0,9.0,8.0,Street,Yew St,1.0
+9.0,8.0,10.0,8.0,Street,Yew St,1.0
+10.0,8.0,11.0,8.0,Street,Yew St,1.0
+11.0,8.0,12.0,8.0,Street,Yew St,1.0
+12.0,8.0,14.0,8.0,Street,Yew St,2.0
+14.0,8.0,16.0,8.0,Street,Yew St,2.0
+0.0,12.0,1.0,12.0,Street,Arbutus St,1.0
+1.0,12.0,2.0,12.0,Street,Arbutus St,1.0
+2.0,12.0,3.0,12.0,Street,Arbutus St,1.0
+3.0,12.0,4.0,12.0,Street,Arbutus St,1.0
+4.0,12.0,5.0,12.0,Street,Arbutus St,1.0
+5.0,12.0,6.0,12.0,Street,Arbutus St,1.0
+6.0,12.0,7.0,12.0,Street,Arbutus St,1.0
+7.0,12.0,8.0,12.0,Street,Arbutus St,1.0
+8.0,12.0,9.0,12.0,Street,Arbutus St,1.0
+9.0,12.0,10.0,12.0,Street,Arbutus St,1.0
+10.0,12.0,11.0,12.0,Street,Arbutus St,1.0
+11.0,12.0,12.0,12.0,Street,Arbutus St,1.0
+12.0,12.0,14.0,12.0,Street,Arbutus St,2.0
+14.0,12.0,16.0,12.0,Street,Arbutus St,2.0
+0.0,16.0,1.0,16.0,Street,Maple St,1.0
+1.0,16.0,2.0,16.0,Street,Maple St,1.0
+2.0,16.0,3.0,16.0,Street,Maple St,1.0
+3.0,16.0,4.0,16.0,Street,Maple St,1.0
+4.0,16.0,5.0,16.0,Street,Maple St,1.0
+5.0,16.0,6.0,16.0,Street,Maple St,1.0
+6.0,16.0,7.0,16.0,Street,Maple St,1.0
+7.0,16.0,8.0,16.0,Street,Maple St,1.0
+8.0,16.0,9.0,16.0,Street,Maple St,1.0
+9.0,16.0,10.0,16.0,Street,Maple St,1.0
+10.0,16.0,11.0,16.0,Street,Maple St,1.0
+11.0,16.0,12.0,16.0,Street,Maple St,1.0
+12.0,16.0,14.0,16.0,Street,Maple St,2.0
+14.0,16.0,15.0,16.0,Street,Maple St,1.0
+0.0,20.0,2.0,20.0,Street,Cypress St,2.0
+2.0,20.0,3.0,20.0,Street,Cypress St,1.0
+3.0,20.0,4.0,20.0,Street,Cypress St,1.0
+4.0,20.0,5.0,20.0,Street,Cypress St,1.0
+5.0,20.0,6.0,20.0,Street,Cypress St,1.0
+6.0,20.0,7.0,20.0,Street,Cypress St,1.0
+7.0,20.0,8.0,20.0,Street,Cypress St,1.0
+8.0,20.0,9.0,20.0,Street,Cypress St,1.0
+9.0,20.0,10.0,20.0,Street,Cypress St,1.0
+10.0,20.0,11.0,20.0,Street,Cypress St,1.0
+11.0,20.0,12.0,20.0,Street,Cypress St,1.0
+12.0,20.0,14.0,20.0,Street,Cypress St,2.0
+14.0,20.0,15.0,20.0,Street,Cypress St,1.0
+15.0,20.0,16.0,20.0,Street,Cypress St,1.0
+0.0,22.0,2.0,22.0,Street,Chestnut St,2.0
+2.0,22.0,3.0,22.0,Street,Chestnut St,1.0
+3.0,22.0,4.0,22.0,Street,Chestnut St,1.0
+0.0,24.0,4.0,24.0,Street,Burrard St,4.0
+4.0,24.0,5.0,24.0,Street,Burrard St,1.0
+5.0,24.0,6.0,24.0,Street,Burrard St,1.0
+6.0,24.0,7.0,24.0,Street,Burrard St,1.0
+7.0,24.0,8.0,24.0,Street,Burrard St,1.0
+8.0,24.0,9.0,24.0,Street,Burrard St,1.0
+9.0,24.0,10.0,24.0,Street,Burrard St,1.0
+10.0,24.0,11.0,24.0,Street,Burrard St,1.0
+11.0,24.0,12.0,24.0,Street,Burrard St,1.0
+12.0,24.0,14.0,24.0,Street,Burrard St,2.0
+14.0,24.0,16.0,24.0,Street,Burrard St,2.0
